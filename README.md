@@ -13,13 +13,16 @@
 ## Google Colab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArk3D34rWqNoPw4_n-ovyK0lz3yvknTVZd9yeCdZrsdDEViqoPMmjhFWD-iy4NO1UiyI&usqp=CAU" alt="Colab" width="40">
 - During research, codes have been executed in Google Colab as it is a hosted Jupyter Notebook service that provides free access to computing resources, including GPUs and TPUs.
 
-## Dataset
+## Datasets
 1. Sarcasm Corpus v2:
    - https://github.com/soraby/sarcasm2
    - https://nlds.soe.ucsc.edu/sarcasm2
    - https://paperswithcode.com/dataset/sarcasm-corpus-v2
 2. 
 
+## Embeddings
+1. das
+2. dasd
 
 ## Models
 
