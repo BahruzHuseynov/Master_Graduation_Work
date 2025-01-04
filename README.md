@@ -14,7 +14,7 @@
 - During research, codes have been executed in Google Colab as it is a hosted Jupyter Notebook service that provides free access to computing resources, including GPUs and TPUs.
 
 ## Dataset
-- Sarcasm Corpus v2: https://github.com/soraby/sarcasm2/tree/main/sarcasm_v2
+- Sarcasm Corpus v2: https://github.com/soraby/sarcasm2 or https://nlds.soe.ucsc.edu/sarcasm2
 
 
 ## Models
