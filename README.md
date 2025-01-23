@@ -18,13 +18,44 @@
    - https://github.com/soraby/sarcasm2
    - https://nlds.soe.ucsc.edu/sarcasm2
    - https://paperswithcode.com/dataset/sarcasm-corpus-v2
-2. 
+2. Sarcasm News Headlines
+   - https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
 
-## Embeddings
-1. das
-2. dasd
-
-## Models
+## Embedding models
+<table>
+   <tr>
+      <th> Model </th>
+      <th> Model size (million parameters) </th>
+      <th> Memory usage (GB, fp32) </th>
+      <th> Embedding dimension </th>
+      <th> Max tokens </th>
+      <th> Link </th>
+   </tr>
+   <tr>
+      <td> cde-small-v1 </td>
+      <td> 143 </td>
+      <td> 0.53 </td>
+      <td> 768 </td>
+      <td> 512 </td>
+      <td> https://huggingface.co/jxm/cde-small-v1 </td>
+   </tr>
+   <tr>
+      <td> gte-base-en-v1.5 </td>
+      <td> 137 </td>
+      <td> 0.51 </td>
+      <td> 768 </td>
+      <td> 8192 </td>
+      <td> https://huggingface.co/Alibaba-NLP/gte-base-en-v1.5 </td>
+   </tr>
+   <tr>
+      <td> GIST-small-Embedding-v0 </td>
+      <td> 33 </td>
+      <td> 0.12 </td>
+      <td> 384 </td>
+      <td> 512 </td>
+      <td> https://huggingface.co/avsolatorio/GIST-small-Embedding-v0 </td>
+   </tr>
+</table>
 
 ## Report
 - Actual report and its editable format in LatEx is provided under this folder
