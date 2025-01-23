@@ -59,7 +59,5 @@
    </tr>
 </table>
 
-## Report
-- Actual report and its editable format in LatEx is provided under this folder
-
 ## Results
+Results are kept under the folder with the same name.
