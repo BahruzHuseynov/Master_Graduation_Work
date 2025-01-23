@@ -1,7 +1,7 @@
 <div align="center">
    <h1> Master Graduation Work </h1>
-   <h2> Bla bla </h2>
-   <img src = "images/ELTE_Logo.png" alt="ELTE Logo">
+   <h2> Comparison of Embedding models on Sarcasm Detection </h2>
+   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtkh90Gk2_vbKuZ1mSQV6RXvuXF54aofLTA&s" alt="ELTE Logo">
 </div>
  </b>
 
@@ -20,6 +20,8 @@
    - https://paperswithcode.com/dataset/sarcasm-corpus-v2
 2. Sarcasm News Headlines
    - https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
+3. iSarcasm
+
 
 ## Embedding models
 <table>
