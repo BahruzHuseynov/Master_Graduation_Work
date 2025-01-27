@@ -20,6 +20,7 @@
    - https://paperswithcode.com/dataset/sarcasm-corpus-v2
 2. Sarcasm News Headlines
    - https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
+   - https://arxiv.org/abs/2212.06035
 3. iSarcasm
 
 
